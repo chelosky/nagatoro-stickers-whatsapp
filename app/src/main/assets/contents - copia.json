@@ -1,0 +1,112 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Cuppy",
+      "publisher": "Jane Doe",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2_nag.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3_nag.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4_nag.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5_nag.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6_nag.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7_nag.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8_nag.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9_nag.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_nag.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_nag.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_nag.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_nag.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_nag.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_nag.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16_nag.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_nag.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18_nag.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19_nag.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20_nag.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21_nag.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22_nag.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23_nag.webp",
+          "emojis": ["🍵","😌"]
+        }
+      ]
+    }
+  ]
+}

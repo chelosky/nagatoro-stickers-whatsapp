@@ -1,0 +1,1113 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Nagatoro Pack 1",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Nagatoro Pack 2",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Nagatoro Pack 3",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Nagatoro Pack 4",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        },
+        {
+          "image_file": "21_nag.webp"
+        },
+        {
+          "image_file": "22_nag.webp"
+        },
+        {
+          "image_file": "23_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Nagatoro Pack 5",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Nagatoro Pack 6",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Nagatoro Pack 7",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Nagatoro Pack 8",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Nagatoro Pack 9",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Nagatoro Pack 10",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Nagatoro Pack 11",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Nagatoro Pack 12",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Nagatoro Pack 13",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Nagatoro Pack 14",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "Nagatoro Pack 15",
+      "publisher": "Please Don't Bully Me, Nagatoro",
+      "tray_image_file": "tray_nag.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_nag.webp"
+        },
+        {
+          "image_file": "2_nag.webp"
+        },
+        {
+          "image_file": "3_nag.webp"
+        },
+        {
+          "image_file": "4_nag.webp"
+        },
+        {
+          "image_file": "5_nag.webp"
+        },
+        {
+          "image_file": "6_nag.webp"
+        },
+        {
+          "image_file": "7_nag.webp"
+        },
+        {
+          "image_file": "8_nag.webp"
+        },
+        {
+          "image_file": "9_nag.webp"
+        },
+        {
+          "image_file": "10_nag.webp"
+        },
+        {
+          "image_file": "11_nag.webp"
+        },
+        {
+          "image_file": "12_nag.webp"
+        },
+        {
+          "image_file": "13_nag.webp"
+        },
+        {
+          "image_file": "14_nag.webp"
+        },
+        {
+          "image_file": "15_nag.webp"
+        },
+        {
+          "image_file": "16_nag.webp"
+        },
+        {
+          "image_file": "17_nag.webp"
+        },
+        {
+          "image_file": "18_nag.webp"
+        },
+        {
+          "image_file": "19_nag.webp"
+        },
+        {
+          "image_file": "20_nag.webp"
+        },
+        {
+          "image_file": "21_nag.webp"
+        }
+      ]
+    }
+  ]
+}
